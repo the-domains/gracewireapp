@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[gracewireapp]]></title>
         <description><![CDATA[gracewireapp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gracewireapp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 01:48:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 01:57:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gracewireapp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Best App In Town</p>]]></description>
-            <link>undefinedthe-best-app-in-town/index.html</link>
+            <title><![CDATA[GraceWireApp]]></title>
+            <description><![CDATA[<article><h1>GraceWireApp</h1><p>The Best App In Town</p></article>]]></description>
+            <link>https://thegrid.ai/gracewireapp/the-best-app-in-town/index.html</link>
             <guid isPermaLink="false">c07a286e-ea5d-4ae7-b9c2-0d684642c5ea</guid>
-            <pubDate>Sun, 03 Apr 2016 01:48:39 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 01:57:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
